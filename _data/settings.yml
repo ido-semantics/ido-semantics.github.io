@@ -123,22 +123,22 @@ education-title: Education
 education:
   - {
       name: Bachelor's degree in Computer Science,
-      date: "Mar 2015 ~ Aug 2018",
+      date: "Mar 2015 - Aug 2018",
       organization: "Korea National Open University",
     }
   - {
       name: Game Contents Design Course Certificate,
-      date: "Apr 2015 ~ Feb 2016",
+      date: "Apr 2015 - Feb 2016",
       organization: "Kyungil Vocation Institution",
     }
   - {
       name: Expert in Big Data Ecosystem on Cloud Computing Course Certificate,
-      date: "Jul 2014 ~ Jan 2015",
+      date: "Jul 2014 - Jan 2015",
       organization: "Ssangyong Education Center",
     }
   - {
       name: Associate's degree in Computer Information Science,
-      date: "Mar 2006 ~ Feb 2008",
+      date: "Mar 2006 - Feb 2008",
       organization: "Shin Ansan University",
     }
 
