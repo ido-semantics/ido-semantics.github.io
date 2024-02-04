@@ -165,7 +165,7 @@ education:
 # Portfolio (Section and Page)
 
 # Portfolio Home Section
-# portfolio-home-items:
+portfolio-home-items:
   - image: "assets/images/portfolio/item-1.png"
     url: "#"
 
@@ -186,26 +186,27 @@ portfolio-label:
   - { title: "Vue & Nuxt", type: "vuejs" }
   - { title: "Java", type: "java" }
   - { title: "REST-APIs", type: "restapi" }
-  # - { title: "UI/UX Design", type: "design" }
+  - { title: "Django", type: "django" }
   # - { title: "BRANDING", type: "branding" }
   # - { title: "ILLUSTRATION", type: "illustration" }
 
 portfolio-items:
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/portfolio-1.png"
     url: "#"
     portfolio-type:
       - type: "vuejs"
+
+  - image: "assets/images/portfolio/portfolio-2.png"
+    url: "#"
+    portfolio-type:
+      - type: "vuejs"
+      - type: "java"
       - type: "restapi"
 
-  - image: "assets/images/portfolio/item-2.png"
+  - image: "assets/images/portfolio/portfolio-3.png"
     url: "#"
     portfolio-type:
-      - type: "vuejs"
-
-  - image: "assets/images/portfolio/item-3.png"
-    url: "#"
-    portfolio-type:
-      - type: "vuejs"
+      - type: "java"
       - type: "restapi"
 
   # - image: "assets/images/portfolio/item-6.png"
@@ -224,11 +225,11 @@ portfolio-items:
   #   portfolio-type:
   #     - type: "design"
 
-  - image: "assets/images/portfolio/item-1.png"
+  - image: "assets/images/portfolio/portfolio-4.png"
     url: "#"
     portfolio-type:
-      - type: "restapi"
-      - type: "java"
+      - type: "django"
+      - type: "vuejs"
 
   # - image: "assets/images/portfolio/item-3.png"
   #   url: "#"
