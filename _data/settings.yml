@@ -190,55 +190,55 @@ portfolio-label:
   # - { title: "BRANDING", type: "branding" }
   # - { title: "ILLUSTRATION", type: "illustration" }
 
-# portfolio-items:
-#   - image: "assets/images/portfolio/item-1.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "illustration"
+portfolio-items:
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "vuejs"
+      - type: "java"
 
-#   - image: "assets/images/portfolio/item-2.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "branding"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "#"
+    portfolio-type:
+      - type: "java"
 
-#   - image: "assets/images/portfolio/item-3.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "#"
+    portfolio-type:
+      - type: "vuejs"
 
-#   - image: "assets/images/portfolio/item-6.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "branding"
+  - image: "assets/images/portfolio/item-6.png"
+    url: "#"
+    portfolio-type:
+      - type: "vuejs"
+      - type: "branding"
 
-#   - image: "assets/images/portfolio/item-8.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
+  - image: "assets/images/portfolio/item-8.png"
+    url: "#"
+    portfolio-type:
+      - type: "restapi"
 
-#   - image: "assets/images/portfolio/item-5.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
+  # - image: "assets/images/portfolio/item-5.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
 
-#   - image: "assets/images/portfolio/item-1.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "branding"
+  # - image: "assets/images/portfolio/item-1.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "branding"
 
-#   - image: "assets/images/portfolio/item-3.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "design"
-#       - type: "illustration"
-#       - type: "branding"
+  # - image: "assets/images/portfolio/item-3.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "design"
+  #     - type: "illustration"
+  #     - type: "branding"
 
-#   - image: "assets/images/portfolio/item-7.png"
-#     url: "#"
-#     portfolio-type:
-#       - type: "illustration"
+  # - image: "assets/images/portfolio/item-7.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "illustration"
 
 #-------------------------------
 # Testimonials Section
