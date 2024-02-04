@@ -7,8 +7,8 @@ logo:
 author: Ido Jeon
 description: Welcome to my Homepage
 email: ido.j.r2@gmail.com
-phone: +81 80 7172 5997
-address: 101-0064, Kanda Sarugakucho 2-3-5, Chiyoda city, Tokyo, Japan
+phone: +49 175 5474 4134
+address: Mester utca 83, 1095 Budapest
 copyright: Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Getjekyllthemes](https://getjekyllthemes.com)
 
 menu:
@@ -112,7 +112,7 @@ experience:
   - {
       name: Front-End Web Developer,
       icon: "icon-3.png",
-      date: "Oct 2021 - Present",
+      date: "Oct 2021 - Sep 2023",
       organization: "RAKUTEN",
     }
 
