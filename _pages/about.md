@@ -8,4 +8,4 @@ image: assets/images/about/author.jpg
 
 *If you would like to know more about me, please take a look at **[my project introduction page][portfolio]**.*
 
-[portfolio]: /portfolio/
+[portfolio]: /portfolio
