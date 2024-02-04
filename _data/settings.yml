@@ -136,11 +136,6 @@ education:
       date: "Jul 2014 - Jan 2015",
       organization: "Ssangyong Education Center",
     }
-  - {
-      name: Associate's degree in Computer Information Science,
-      date: "Mar 2006 - Feb 2008",
-      organization: "Shin Ansan University",
-    }
 
 #-------------------------------
 # Services Section
