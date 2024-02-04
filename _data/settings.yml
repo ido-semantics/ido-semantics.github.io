@@ -166,20 +166,20 @@ education:
 
 # Portfolio Home Section
 # portfolio-home-items:
-#   - image: "assets/images/portfolio/item-1.png"
-#     url: "#"
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
 
-#   - image: "assets/images/portfolio/item-2.png"
-#     url: "#"
+  - image: "assets/images/portfolio/item-2.png"
+    url: "#"
 
-#   - image: "assets/images/portfolio/item-3.png"
-#     url: "#"
+  - image: "assets/images/portfolio/item-3.png"
+    url: "#"
 
-#   - image: "assets/images/portfolio/item-4.png"
-#     url: "#"
+  - image: "assets/images/portfolio/item-4.png"
+    url: "#"
 
-#   - image: "assets/images/portfolio/item-5.png"
-#     url: "#"
+  - image: "assets/images/portfolio/item-5.png"
+    url: "#"
 
 # Portfolio Page
 portfolio-label:
@@ -207,26 +207,26 @@ portfolio-items:
     portfolio-type:
       - type: "vuejs"
 
-  - image: "assets/images/portfolio/item-6.png"
-    url: "#"
-    portfolio-type:
-      - type: "vuejs"
-      - type: "branding"
+  # - image: "assets/images/portfolio/item-6.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "vuejs"
+  #     - type: "branding"
 
-  - image: "assets/images/portfolio/item-8.png"
-    url: "#"
-    portfolio-type:
-      - type: "restapi"
+  # - image: "assets/images/portfolio/item-8.png"
+  #   url: "#"
+  #   portfolio-type:
+  #     - type: "restapi"
 
   # - image: "assets/images/portfolio/item-5.png"
   #   url: "#"
   #   portfolio-type:
   #     - type: "design"
 
-  # - image: "assets/images/portfolio/item-1.png"
-  #   url: "#"
-  #   portfolio-type:
-  #     - type: "branding"
+  - image: "assets/images/portfolio/item-1.png"
+    url: "#"
+    portfolio-type:
+      - type: "restapi"
 
   # - image: "assets/images/portfolio/item-3.png"
   #   url: "#"
