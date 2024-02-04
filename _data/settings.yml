@@ -195,17 +195,18 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "vuejs"
-      - type: "java"
+      - type: "restapi"
 
   - image: "assets/images/portfolio/item-2.png"
     url: "#"
     portfolio-type:
-      - type: "java"
+      - type: "vuejs"
 
   - image: "assets/images/portfolio/item-3.png"
     url: "#"
     portfolio-type:
       - type: "vuejs"
+      - type: "restapi"
 
   # - image: "assets/images/portfolio/item-6.png"
   #   url: "#"
@@ -227,6 +228,7 @@ portfolio-items:
     url: "#"
     portfolio-type:
       - type: "restapi"
+      - type: "java"
 
   # - image: "assets/images/portfolio/item-3.png"
   #   url: "#"
