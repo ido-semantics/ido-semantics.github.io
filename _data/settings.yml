@@ -161,7 +161,7 @@ portfolio-items:
       - type: "restapi"
 
   - image: "assets/images/portfolio/portfolio-3.png"
-    url: "/2020/9/15/java-olingo-odata-api/"
+    url: "/2020/09/15/java-olingo-odata-api/"
     portfolio-type:
       - type: "java"
       - type: "restapi"
