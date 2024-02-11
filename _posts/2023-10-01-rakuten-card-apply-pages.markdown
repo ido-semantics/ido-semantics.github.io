@@ -2,7 +2,7 @@
 layout: post
 title:  Rakuten Card Applying Page Renewal
 date:   2023-10-01 20:05:55 +0900
-image:  /assets/images/blog/post-creditcard.jpg
+image:  /assets/images/blog/post-creditcard.png
 author: Ido J.
 tags:   Frontend Team Div. 1
 ---
