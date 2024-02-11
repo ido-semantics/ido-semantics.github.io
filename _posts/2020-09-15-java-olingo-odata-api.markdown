@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Java Olingo OData API Server
-date:   2020-09-15 11:05:55 +0900
+date:  2020-09-15 11:05:55 +0900
 image:  /assets/images/blog/post-odata.png
 image2:  /assets/images/blog/post-odata2.png
 author: Ido J.
