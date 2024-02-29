@@ -34,10 +34,10 @@ hero:
   hero-title: Hi! I’m <br> Ido <br> Web Developer
 
 social:
-  - { icon: "ti-facebook", link: "#" }
+  - { icon: "ti-facebook", link: "https://www.instagram.com/diakin.j?igsh=MXVqOG5lcGlpdmxyag%3D%3D&utm_source=qr" }
   - { icon: "ti-instagram", link: "#" }
   # - { icon: "ti-dribbble", link: "#" }
-  - { icon: "ti-twitter", link: "#" }
+  - { icon: "ti-twitter", link: "https://x.com/d452022?s=21&t=pcskYDLHMXDhzEtN_NJJhg" }
 
 #-------------------------------
 # About (Section and Page)
